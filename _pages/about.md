@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto majoring in Machine Intelligence and minoring in Robotics. 
+Hi, I'm Mithun Vanniasinghe. I am an undergraduate student in the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto majoring in Machine Intelligence and minoring in Robotics. 
 
 I am currently on my Professional Experience Year (PEY) Co-Op at [Tenstorrent](https://tenstorrent.com/) where I work as an Applied Machine Learning Engineer focusing on focusing on optimizing LLMs as well as analyzing their performance on Tenstorrent hardware. I am also currently an undergraduate ML researcher at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/) at UofT. I am also a researcher at the [Super Cyrogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (SuperCDMS) international collaboration and experiement where I am doing work as a machine learning researcher for experimental techniques. 
 
