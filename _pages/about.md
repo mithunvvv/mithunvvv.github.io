@@ -26,11 +26,10 @@ I am particularly interested in how these fields intersect to create smarter and
 
 Here are my current publications that are in progress:
 
-1. **Title of Publication 1**  
-   *Status*: In Progress  
-   *Description*: A brief description or abstract of the publication.  
-   *Link*: [Link to draft or relevant page](URL)  
-   ![Publication 1 Image](images/publication1.png)
+1. **Interpretable Option-based Adversarial Hierarchical Imitation Learning**  
+   *Status*: In Progress (for submission to IROS 2025) 
+   *Description*: Developing a novel learning algorithm using adverarial hierarchical imitation learning for robotic control with emphasis on learning interpretable agent policies in long horizon taks.. 
+   ![Publication 1 Image](images/franka-panda.png)
 
 2. **Title of Publication 2**  
    *Status*: In Progress  
