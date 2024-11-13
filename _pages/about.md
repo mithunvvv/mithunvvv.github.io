@@ -15,7 +15,7 @@ I am currently on my Professional Experience Year (PEY) Co-Op at [Tenstorrent](h
 
 I am deeply passionate about exploring various areas in technology and science. My primary research interests include:
 
-- **Reinforcement Learning**: focusing on learning for long horizon tasks 
+- **Reinforcement Learning**
 - **Optimal and Safe Control**
 - **Imitation Learning**
 - **Optimization**
