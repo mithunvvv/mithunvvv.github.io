@@ -7,12 +7,6 @@
 main:
   - title: "Home"
     url: /  # This points to the homepage (about.md is rendered as homepage)
-
-  - title: "Publications"
-    url: /#publications/
-
-  - title: "Projects"
-    url: /#Projects/    
     
   - title: "CV"
     url: /files/Mithun_Vanniasinghe_Academic_CV.pdf
