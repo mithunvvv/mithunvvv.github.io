@@ -29,14 +29,13 @@ Here are my current publications that are in progress:
 1. **Interpretable Option-based Adversarial Hierarchical Imitation Learning**  
    *Status*: In Progress (for submission to IROS 2025) 
 
-   *Description*: Developing a novel learning algorithm using adverarial hierarchical imitation learning for robotic control with emphasis on learning interpretable agent policies in long horizon taks.. 
+   *Description*: Developing a novel learning algorithm using adverarial hierarchical imitation learning for robotic control with emphasis on learning interpretable agent policies in long horizon taks.
    ![Publication 1 Image](images/franka-panda.png)
 
 2. **Rapid Creation of Synthetic Data for Analysis of Dark Matter Data with Generative Adversarial Networks**  
    *Status*: In Progress (for submission to NIMA earlt 2025) 
 
    *Description*: Explores the use of Generative Adversarial Networks (GANs) to quickly generate salt for dark matter analyses, a method that could significantly speed up the process. One of the primary challenges of salting in experiments like SuperCDMS is the time-consuming nature of generating sufficient salt. The research presented aims to overcome this limitation and optimize the salting process.
-   *Link*: [Link to draft or relevant page](URL)  
    ![Publication 2 Image](images/SuperCDMS.png)
 
 Getting started
