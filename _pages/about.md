@@ -11,6 +11,17 @@ I am an undergraduate student in the [Engineering Science](https://engsci.utoron
 
 I am currently on my Professional Experience Year (PEY) Co-Op at [Tenstorrent](https://tenstorrent.com/) where I work as an Applied Machine Learning Engineer focusing on focusing on optimizing LLMs as well as analyzing their performance on Tenstorrent hardware. I am also currently an undergraduate ML researcher at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/) at UofT. I am also a researcher at the [Super Cyrogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (SuperCDMS) international collaboration and experiement where I am doing work as a machine learning researcher for experimental techniques. 
 
+## Research Interests {#research-interests}
+
+I am deeply passionate about exploring various areas in technology and science. My primary research interests include:
+
+- **Reinforcement Learning**: focusing on learning for long horizon tasks 
+- **Optimal and Safe Control**
+- **Imitation Learning**
+- **Optimization**
+
+I am particularly interested in how these fields intersect to create smarter and more autonomous systems.
+
 ## Publications {#publications}
 
 Here are my current publications that are in progress:
