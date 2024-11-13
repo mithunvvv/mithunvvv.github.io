@@ -9,7 +9,7 @@ main:
     url: /  # This points to the homepage (about.md is rendered as homepage)
 
   - title: "Publications"
-    url: /#Publications/
+    url: /#publications/
 
   - title: "Projects"
     url: /#Projects/    
