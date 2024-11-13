@@ -15,7 +15,7 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /files/Mithun_Vanniasinghe_Academic_CV.pdf/
+    url: /files/Mithun_Vanniasinghe_Academic_CV.pdf
 
   - title: "Blog Posts"
     url: /year-archive/
