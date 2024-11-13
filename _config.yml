@@ -21,7 +21,7 @@ repository               : "mithunvvv/mithunvvv.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Mithun Vanniasinghe"
   pronouns         : # example: "she/her"  
   # bio              : "Engineering Scie"
