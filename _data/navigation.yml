@@ -6,13 +6,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publications/
 
   - title: "Projects"
-    url: /projects/    
-
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /#projects/    
     
   - title: "CV"
     url: /files/Mithun_Vanniasinghe_Academic_CV.pdf
