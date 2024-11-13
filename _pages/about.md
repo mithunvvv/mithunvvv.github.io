@@ -36,7 +36,7 @@ Here are my current publications that are in progress:
    *Status*: In Progress (for submission to NIMA early 2025) 
 
    *Description*: Explores the use of Generative Adversarial Networks (GANs) to quickly generate salt for dark matter analyses, a method that could significantly speed up the process. One of the primary challenges of salting in experiments like SuperCDMS is the time-consuming nature of generating sufficient salt. The research presented aims to overcome this limitation and optimize the salting process.
-   ![Publication 2 Image](images/SuperCDMS.png)
+   ![Publication 2 Image](images/superCDMS.png)
 
 Getting started
 ======
