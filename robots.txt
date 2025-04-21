@@ -1,1 +1,7 @@
 Sitemap: https://mithunvvv.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
