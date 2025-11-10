@@ -9,26 +9,20 @@ redirect_from:
 
 Hi, I'm Mithun Vanniasinghe. I am an undergraduate student in the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto majoring in Machine Intelligence and minoring in Robotics. 
 
-I am currently in my **final year** of undergraduate studies, focusing on all things **reinforcement learning (RL), control theory, and robotics**.  
-For my undergraduate thesis, I’m exploring how to integrate **representation learning** with **Hamilton-Jacobi reachability analysis**, supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/).  
-I also spend time as a **Teaching Assistant** for first-year **Linear Algebra** (I love teaching — and linear algebra :D).
+I am currently in my **final year** of undergraduate studies, focusing on all things **reinforcement learning (RL), control theory, and robotics**.  For my undergraduate thesis, I’m exploring how to integrate **representation learning** with **Hamilton-Jacobi reachability analysis**, supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/). I also spend time as a **Teaching Assistant** for first-year **Linear Algebra** (I love teaching — and linear algebra :D).
 
 
-## Research Experience {#research-experience}
-
-**Summer 2025 — Human-Robot Social Navigation (UTIAS)**  
-This past summer, I was co-supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/) and [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/) on a project involving **imitation learning for human-robot social navigation**.  
-It was my first project working with real hardware and performing real “in-the-wild” experiments. I learned an incredible amount — and even got a paper out of it!  
+This past summer, I was co-supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/) and [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/) on a project involving **imitation learning for human-robot social navigation**.  It was my first project working with real hardware and performing real “in-the-wild” experiments. I learned an incredible amount — and even got a paper out of it!  
 🎥 [Watch the project video here](https://www.youtube.com/watch?v=tOdLTXsaYLQ)
 
-**2024–2025 — Applied Machine Learning Engineer (Tenstorrent)**  
+
 I completed my **Professional Experience Year (PEY) Co-op** at [Tenstorrent](https://tenstorrent.com/), where I worked as an **Applied Machine Learning Engineer** focusing on **optimizing LLMs** and analyzing their **performance on Tenstorrent hardware**.  
 
-At the same time, I was an **undergraduate ML researcher** at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/) at UofT, supervised by [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/).  
-During this time, I also initiated a **collaborative project** with [Jiayu Chen](https://agentic-intelligence-lab.org/members/jiayu-chen.html) at **Hong Kong University**, working on **interpretable hierarchical imitation learning**.
+At the same time, I was an **undergraduate ML researcher** at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/) at UofT, supervised by [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/).  During this time, I also initiated a **collaborative project** with [Jiayu Chen](https://agentic-intelligence-lab.org/members/jiayu-chen.html) at **Hong Kong University**, working on **interpretable hierarchical imitation learning**.
 
-**2023–2024 — Machine Learning for Experimental Physics (SuperCDMS)**  
 Previously, I worked as a researcher at the [Super Cryogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (**SuperCDMS**) international collaboration, developing **machine learning techniques and tools** for experimental setups at the **University of British Columbia**.
+
+
 
 ## Education {#education}
 
@@ -47,6 +41,7 @@ I am passionate about exploring various areas in technology and science. My prim
 - **Robotics**
 
 I am particularly interested in how these fields intersect to create safer autonomous systems. I am interested in the theoreitcal foundations of buidling safe, autonmous systems, and especially currently interested in the field of reachability analysis. 
+
 
 ## Publications {#publications}
 
