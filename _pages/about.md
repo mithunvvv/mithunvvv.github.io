@@ -29,7 +29,6 @@ During this time, I also initiated a **collaborative project** with [Jiayu Chen]
 
 **2023–2024 — Machine Learning for Experimental Physics (SuperCDMS)**  
 Previously, I worked as a researcher at the [Super Cryogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (**SuperCDMS**) international collaboration, developing **machine learning techniques and tools** for experimental setups at the **University of British Columbia**.
-g experimental techniques and tools at the University of British Columbia. 
 
 ## Education {#education}
 
@@ -63,7 +62,7 @@ Here are my current publications that are in progress:
    *Status*: Co-first author, submitted to ICRA 2026  
 
    C. Zhu, M. Vanniasinghe, J. Chen, and C.-G. Lee, “Offline Discovery of Interpretable Skills from Multi-Task Trajectories,” manuscript submitted for publication,, 2025.
-   
+
 3. **Rapid Creation of Synthetic Data for Analysis of Dark Matter Data with Generative Adversarial Networks**  
    *Status*: In Progress (for submission to NIMA early 2025)  
 
