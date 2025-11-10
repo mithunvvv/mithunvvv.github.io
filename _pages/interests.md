@@ -1,3 +1,9 @@
+---
+permalink: /interests/
+layout: page
+title: "Interests"
+---
+
 # My Interests
 Yes, I am a real person outside of research and studying. Here are some of the things I like to do (this is me nonchalantly asking to get invited on lab camping or hiking trips :P)
 
