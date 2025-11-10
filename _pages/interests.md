@@ -12,6 +12,7 @@ Yes, I am a real person outside of research and studying. Here are some of the t
 ## Outdoors
 I love being outdoors. Hiking on the west coast. Can't count the number of times I have been to Vancouver.  
 
+<img src="/files/yoho.png" alt="Hiking in Vancouver" width="400px">
 ![Hiking in Vancouver](/files/yoho.png)  
 *Yoho National Park*  
 
@@ -23,23 +24,23 @@ I enjoy exploring new places.
 ### China, Egypt, Northern Canada
 I have visited multiple cities and loved the culture, food, and scenery.  
 
-![PKU](/files/pku.png)  
-*Peking Univeristy*  
+<img src="/files/pku.png" alt="Peking University" width="300px">
+*Peking University*
 
-![Pyramids of Egypt](/files/egypt.png)  
-*Visiting the Pyramids*  
+<img src="/files/egypt.png" alt="Pyramids of Egypt" width="300px">
+*Visiting the Pyramids*
 
-![Nunavuta](/files/nunavut.png)  
-*Ice Fishing in Iqaluit, Nunavut*  
+<img src="/files/nunavut.png" alt="Ice Fishing in Iqaluit" width="300px">
+*Ice Fishing in Iqaluit, Nunavut*
 
 ---
 
 ## Modelling
 I also do some modelling here and there.  
 
-![Modelling Photo](/files/soccor.jpg)  
+<img src="/files/soccor.jpg" alt="Soccor" width="300px">
 *~In another life I'd know how to play soccer~*  
 
 
-![Modelling Photo](/files/facecard.jpg)  
+<img src="/files/facecard.jpg" alt="Soccor" width="300px">
 *Late night in Chinatown in Toronto*t*  
