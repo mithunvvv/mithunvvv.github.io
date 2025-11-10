@@ -13,3 +13,9 @@ main:
 
   - title: "Blog Posts"
     url: https://medium.com/@mithunvvv
+
+  - title: "Publications" 
+    url: /publications/
+  
+  - title: "Teaching"
+    url: /teaching/

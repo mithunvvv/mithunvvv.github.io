@@ -28,7 +28,7 @@ Previously, I worked as a researcher at the [Super Cryogenic Dark Matter Search]
 
 - **University of Toronto**  
   *Bachelor of Applied Science (BASc), [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/)*  
-  *Major: [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/) · Minor: [Robotics] (https://undergrad.engineering.utoronto.ca/academics-registration/engineering-minors-certificates/robotics-mechatronics-minor/) *  
+  *Major: [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/) · Minor: [Robotics](https://undergrad.engineering.utoronto.ca/academics-registration/engineering-minors-certificates/robotics-mechatronics-minor/) *  
 
 
 ## Research Interests {#research-interests}
@@ -59,6 +59,19 @@ Here are my current publications that are in progress:
    C. Zhu, M. Vanniasinghe, J. Chen, and C.-G. Lee, “Offline Discovery of Interpretable Skills from Multi-Task Trajectories,” manuscript submitted for publication,, 2025.
 
 3. **Rapid Creation of Synthetic Data for Analysis of Dark Matter Data with Generative Adversarial Networks**  
-   *Status*: In Progress (for submission to NIMA early 2025)  
+   *Status*: In Progress 
 
-   *Description*: Explores the use of Generative Adversarial Networks (GANs) to quickly generate salt (fake data) for dark matter analyses. One of the primary challenges of salting in experiments like SuperCDMS is the time-consuming nature of generating sufficient salt. The research presented aims to overcome this limitation and optimize the salting process.
+   Roberts, A., Banaei‑Kashani, F., Kromer, Z., Harris, K., Jayaraman, S., Vanniasinghe, M., & Liu, Y. Rapid creation of synthetic data for analysis of dark matter data with Generative Adversarial Networks. University of Colorado Denver, Physics & Computer Science Departments.
+
+
+## Teaching {#teaching}
+
+I had the privlege of being a teaching assitant for first year engineering linear algebra and calculus II. In addition to research, I love helping others learn (especailly linear algebra, can you tell I like linear algebra yet lol)
+
+1. [MAT188 - Linear Algebra](https://engineering.calendar.utoronto.ca/course/mat188h1)
+   
+   2x taught 
+
+2. [MAT187 - Calculus II](https://engineering.calendar.utoronto.ca/course/mat187h1)
+   
+   2x taught
