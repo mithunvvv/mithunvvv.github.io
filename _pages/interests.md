@@ -12,7 +12,7 @@ Yes, I am a real person outside of research and studying. Here are some of the t
 ## Outdoors
 I love being outdoors. Hiking on the west coast. Can't count the number of times I have been to Vancouver.  
 
-![Hiking in Vancouver](/files/yoho.jpg)  
+![Hiking in Vancouver](/files/yoho.png)  
 *Yoho National Park*  
 
 ---
@@ -23,13 +23,13 @@ I enjoy exploring new places.
 ### China, Egypt, Northern Canada
 I have visited multiple cities and loved the culture, food, and scenery.  
 
-![PKU](/files/pku.jpg.jpg)  
+![PKU](/files/pku.png)  
 *Peking Univeristy*  
 
-![Pyramids of Egypt](/files/egypt.jpg)  
+![Pyramids of Egypt](/files/egypt.png)  
 *Visiting the Pyramids*  
 
-![Nunavuta](/files/nunavut.jpg)  
+![Nunavuta](/files/nunavut.png)  
 *Ice Fishing in Iqaluit, Nunavut*  
 
 ---
