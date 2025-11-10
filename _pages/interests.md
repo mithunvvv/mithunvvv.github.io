@@ -2,8 +2,10 @@
 permalink: /interests/
 layout: page
 title: "Interests"
+redirect_from: 
+  - /interests/
+  - /interests.html
 ---
-
 # My Interests
 Yes, I am a real person outside of research and studying. Here are some of the things I like to do (this is me nonchalantly asking to get invited on lab camping or hiking trips :P)
 
@@ -27,7 +29,7 @@ I have visited multiple cities and loved the culture, food, and scenery.
 ![Pyramids of Egypt](/files/egypt.jpg)  
 *Visiting the Pyramids*  
 
-![Nunavuta](/files/nunavut.jpg.jpg)  
+![Nunavuta](/files/nunavut.jpg)  
 *Ice Fishing in Iqaluit, Nunavut*  
 
 ---
