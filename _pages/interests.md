@@ -11,11 +11,6 @@ title: "Interests"
   line-height: 1.7;
 }
 
-.interests-container h1, 
-.interests-container h2 {
-  text-align: left;
-}
-
 .img-center {
   display: flex;
   flex-direction: column;
@@ -27,7 +22,7 @@ title: "Interests"
   width: 100%;
   max-width: 300px;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 .img-grid {
@@ -42,14 +37,21 @@ title: "Interests"
   width: 100%;
   max-width: 300px;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 figcaption {
   text-align: center;
-  font-size: 0.9em;
-  color: #666;
-  margin-top: 0.5em;
+  font-size: 0.85em;
+  color: #888;
+  margin-top: 0.4em;
+  font-style: italic;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e5e5e5;
+  margin: 2em 0;
 }
 </style>
 
@@ -68,7 +70,7 @@ I love hiking and exploring national parks on the west coast.
 
 <figure class="img-center">
   <img src="/files/yoho.png" alt="Hiking in Yoho National Park">
-  <figcaption><em>Yoho National Park</em></figcaption>
+  <figcaption>Yoho National Park</figcaption>
 </figure>
 
 ---
@@ -81,17 +83,17 @@ Each offered something unique — culture, food, and incredible scenery.
 <div class="img-grid">
   <figure>
     <img src="/files/pku.png" alt="Peking University">
-    <figcaption><em>Peking University</em></figcaption>
+    <figcaption>Peking University</figcaption>
   </figure>
 
   <figure>
     <img src="/files/egypt.png" alt="Pyramids of Egypt">
-    <figcaption><em>Pyramids of Egypt</em></figcaption>
+    <figcaption>Pyramids of Egypt</figcaption>
   </figure>
 
   <figure>
     <img src="/files/nunavut.png" alt="Ice fishing in Iqaluit, Nunavut">
-    <figcaption><em>Ice fishing in Iqaluit, Nunavut</em></figcaption>
+    <figcaption>Ice fishing in Iqaluit, Nunavut</figcaption>
   </figure>
 </div>
 
@@ -103,12 +105,12 @@ I occasionally do casual modelling and enjoy photography — especially during n
 
 <figure class="img-center">
   <img src="/files/soccor.jpg" alt="Casual modelling shoot">
-  <figcaption><em>Casual shoot</em></figcaption>
+  <figcaption>Casual shoot</figcaption>
 </figure>
 
 <figure class="img-center">
   <img src="/files/facecard.jpg" alt="Late night in Chinatown, Toronto">
-  <figcaption><em>Late night, Chinatown (Toronto)</em></figcaption>
+  <figcaption>Late night, Chinatown (Toronto)</figcaption>
 </figure>
 
 </div>
