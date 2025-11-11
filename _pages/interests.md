@@ -3,6 +3,36 @@ permalink: /interests/
 layout: page
 title: "Interests"
 ---
+<style>
+.img-center {
+  text-align: center;
+  margin: 1.5em 0;
+}
+
+.img-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 2em 0;
+}
+
+.img-grid figure {
+  text-align: center;
+  margin: 0;
+}
+
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+</style>
 
 # Interests
 
