@@ -16,38 +16,3 @@
     padding : 5px;
 }
 
-/* Constrain images and provide layout utilities used on the Interests page */
-.content img,
-.page img,
-.markdown img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-
-.img-small {
-  max-width: 420px;
-  width: 100%;
-  height: auto;
-  object-fit: contain;
-}
-
-.img-center {
-  text-align: center;
-  margin: 0.75rem 0;
-}
-
-.img-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
-  align-items: flex-start;
-}
-
-.img-grid figure {
-  max-width: 300px;
-  margin: 0;
-  text-align: center;
-}
-/* ...existing code... */
