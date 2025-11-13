@@ -9,7 +9,7 @@ main:
     url: /  # This points to the homepage (about.md is rendered as homepage)
     
   - title: "CV"
-    url: /files/Mithun_Vanniasinghe_CV_Nov25.pdf
+    url: /files/Mithun_Vanniasinghe_Academic_CV.pdf
 
   - title: "Blog Posts"
     url: https://medium.com/@mithunvvv
