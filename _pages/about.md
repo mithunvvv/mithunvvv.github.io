@@ -47,7 +47,7 @@ Earlier, I contributed to the [Super Cryogenic Dark Matter Search](https://super
 
    J. R. Han, M. Vanniasinghe, H. Sahak, N. Rhinehart, and T. D. Barfoot, “Ratatouille: Imitation Learning Ingredients for Real-world Social Robot Navigation,” arXiv:2509.17204, 2025. [Video demo](https://www.youtube.com/watch?v=tOdLTXsaYLQ)
 
-2. **Offline Discovery of Interpretable Skills from Multi-Task Trajectories**  
+2. **[Offline Discovery of Interpretable Skills from Multi-Task Trajectories](https://arxiv.org/abs/2602.01018)**  
    *Status:* Co-first author; submitted to ICRA 2026
 
    C. Zhu, M. Vanniasinghe, J. Chen, and C.-G. Lee, “Offline Discovery of Interpretable Skills from Multi-Task Trajectories,” manuscript submitted for publication, 2025.
