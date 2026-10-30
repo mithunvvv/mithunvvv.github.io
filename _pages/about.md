@@ -7,71 +7,59 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Mithun Vanniasinghe. I am an undergraduate student in the [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) program at the University of Toronto majoring in Machine Intelligence and minoring in Robotics. 
+## About
 
-I am currently in my **final year** of undergraduate studies, focusing on all things **reinforcement learning (RL), control theory, and robotics**.  For my undergraduate thesis, I’m exploring how to integrate **representation learning** with **Hamilton-Jacobi reachability analysis**, supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/). I also spend time as a **Teaching Assistant** for first-year **Linear Algebra** (I love teaching — and linear algebra :D).
+Hi, I'm Mithun Vanniasinghe, a PhD student in [Electrical and Computer Engineering](https://cde.nus.edu.sg/ece/graduate/research-based-programmes/phd-m-eng/) at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), where I study robotics under the supervision of [Armin Lederer](https://alederer25.github.io/).
 
-
-This past summer, I was co-supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/) and [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/) on a project involving **imitation learning for human-robot social navigation**.  It was my first project working with real hardware and performing real “in-the-wild” experiments. I learned an incredible amount — and even got a paper out of it!  
-🎥 [Watch the project video here](https://www.youtube.com/watch?v=tOdLTXsaYLQ)
-
-
-I completed my **Professional Experience Year (PEY) Co-op** at [Tenstorrent](https://tenstorrent.com/), where I worked as an **Applied Machine Learning Engineer** focusing on **optimizing LLMs** and analyzing their **performance on Tenstorrent hardware**.  
-
-At the same time, I was an **undergraduate ML researcher** at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/) at UofT, supervised by [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/).  During this time, I also initiated a **collaborative project** with [Jiayu Chen](https://agentic-intelligence-lab.org/members/jiayu-chen.html) at **Hong Kong University**, working on **interpretable hierarchical imitation learning**.
-
-Previously, I worked as a researcher at the [Super Cryogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (**SuperCDMS**) international collaboration, developing **machine learning techniques and tools** for experimental setups at the **University of British Columbia**.
-
-
-
-## Education {#education}
-
-- **University of Toronto**  
-  *Bachelor of Applied Science (BASc), [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/)*  
-  *Major: [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/) · Minor: [Robotics](https://undergrad.engineering.utoronto.ca/academics-registration/engineering-minors-certificates/robotics-mechatronics-minor/) *  
-
+My research aims to help robots learn to operate safely around people, particularly in settings such as healthcare. I combine formal safety methods—including Hamilton–Jacobi reachability analysis and control barrier functions—with reinforcement, imitation, and representation learning. My goal is to enable robots to adapt to complex environments while maintaining safety guarantees.
 
 ## Research Interests {#research-interests}
 
-I am passionate about exploring various areas in technology and science. My primary research interests include:
+I am interested in the foundations of safe autonomous systems and in how learning and control can work together to make robots more capable and reliable. My areas of interest include:
 
-- **Reinforcement Learning**
-- **Optimal and Safe Control**
-- **Imitation Learning**
-- **Robotics**
+- Safe and optimal control
+- Hamilton–Jacobi reachability analysis
+- Control barrier functions
+- Reinforcement, imitation, and representation learning
+- Robotics
 
-I am particularly interested in how these fields intersect to create safer autonomous systems. I am interested in the theoreitcal foundations of buidling safe, autonmous systems, and especially currently interested in the field of reachability analysis. 
+## Research and Experience
 
+During my undergraduate studies at the [University of Toronto](https://www.utoronto.ca/), I explored learning-based approaches to robotics and control. For my undergraduate thesis, supervised by [Nick Rhinehart](https://leaf.utias.utoronto.ca/), I studied how to integrate representation learning with Hamilton–Jacobi reachability analysis.
 
-## Publications {#publications}
+I also worked with [Nick Rhinehart](https://leaf.utias.utoronto.ca/) and [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/) on imitation learning for human-robot social navigation. The project involved real-robot experiments in natural environments and led to a research paper. [Watch the project video](https://www.youtube.com/watch?v=tOdLTXsaYLQ).
 
-Here are my current publications that are in progress:
+As an undergraduate researcher at the [Dynamic Optimization and Reinforcement Learning Lab](https://cglee.mie.utoronto.ca/research-lab/), I worked under the supervision of [Chi-Guhn Lee](https://cglee.mie.utoronto.ca/). I also initiated a collaboration with [Jiayu Chen](https://agentic-intelligence-lab.org/members/jiayu-chen.html) on interpretable hierarchical imitation learning.
+
+Alongside my research, I completed a **Professional Experience Year (PEY) co-op** at [Tenstorrent](https://tenstorrent.com/), where I worked as an applied machine learning engineer. I focused on optimizing large language models and evaluating their performance on Tenstorrent hardware.
+
+Earlier, I contributed to the [Super Cryogenic Dark Matter Search](https://supercdms.slac.stanford.edu/) (**SuperCDMS**) international collaboration, developing machine learning methods and tools for experiments at the University of British Columbia.
+
+## Education {#education}
+
+- **National University of Singapore** — PhD student in Electrical and Computer Engineering
+- **University of Toronto** — Bachelor of Applied Science (BASc) in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/), majoring in [Machine Intelligence](https://engsci.utoronto.ca/program/majors/machine-intelligence/) and minoring in [Robotics](https://undergrad.engineering.utoronto.ca/academics-registration/engineering-minors-certificates/robotics-mechatronics-minor/)
+
+## Publications and Manuscripts {#publications}
 
 1. **[Ratatouille: Offline Imitation Learning for Real-World Social Robot Navigations](https://arxiv.org/pdf/2509.17204)**  
-   *Status*: Second author, submitted to ICRA 2026  
+   *Status:* Second author; submitted to ICRA 2026
 
-   J. R. Han, M. Vanniasinghe, H. Sahak, N. Rhinehart, and T. D. Barfoot, “Ratatouille: Imitation Learning Ingredients for Real-world Social Robot Navigation,” arXiv preprint arXiv:2509.17204, 2025. [Video Demo]
-
+   J. R. Han, M. Vanniasinghe, H. Sahak, N. Rhinehart, and T. D. Barfoot, “Ratatouille: Imitation Learning Ingredients for Real-world Social Robot Navigation,” arXiv:2509.17204, 2025. [Video demo](https://www.youtube.com/watch?v=tOdLTXsaYLQ)
 
 2. **Offline Discovery of Interpretable Skills from Multi-Task Trajectories**  
-   *Status*: Co-first author, submitted to ICRA 2026  
+   *Status:* Co-first author; submitted to ICRA 2026
 
-   C. Zhu, M. Vanniasinghe, J. Chen, and C.-G. Lee, “Offline Discovery of Interpretable Skills from Multi-Task Trajectories,” manuscript submitted for publication,, 2025.
+   C. Zhu, M. Vanniasinghe, J. Chen, and C.-G. Lee, “Offline Discovery of Interpretable Skills from Multi-Task Trajectories,” manuscript submitted for publication, 2025.
 
 3. **Rapid Creation of Synthetic Data for Analysis of Dark Matter Data with Generative Adversarial Networks**  
-   *Status*: In Progress 
+   *Status:* In progress
 
-   Roberts, A., Banaei‑Kashani, F., Kromer, Z., Harris, K., Jayaraman, S., Vanniasinghe, M., & Liu, Y. Rapid creation of synthetic data for analysis of dark matter data with Generative Adversarial Networks. University of Colorado Denver, Physics & Computer Science Departments.
-
+   A. Roberts, F. Banaei-Kashani, Z. Kromer, K. Harris, S. Jayaraman, M. Vanniasinghe, and Y. Liu, “Rapid Creation of Synthetic Data for Analysis of Dark Matter Data with Generative Adversarial Networks,” University of Colorado Denver, Physics and Computer Science Departments.
 
 ## Teaching {#teaching}
 
-I had the privlege of being a teaching assitant for first year engineering linear algebra and calculus II. In addition to research, I love helping others learn (especailly linear algebra, can you tell I like linear algebra yet lol)
+I enjoy helping students build confidence in mathematics, especially linear algebra. I have taught the following first-year engineering courses twice each:
 
-1. [MAT188 - Linear Algebra](https://engineering.calendar.utoronto.ca/course/mat188h1)
-   
-   2x taught 
-
-2. [MAT187 - Calculus II](https://engineering.calendar.utoronto.ca/course/mat187h1)
-   
-   2x taught
+- [MAT188 — Linear Algebra](https://engineering.calendar.utoronto.ca/course/mat188h1)
+- [MAT187 — Calculus II](https://engineering.calendar.utoronto.ca/course/mat187h1)
